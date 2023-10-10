@@ -1,5 +1,14 @@
-#
-#
+**Original author**: Michelle Spoto
+**Contributing authors**: Sierra Mellor, Georgia Doing
+
+Being updated (Summer 2023) with further development to use for selecting PAMless guides. 
+
+These updates, found in GuideFinder_Mac_2020_SMM_PAMless, allows for a selection of 
+NGG, NAN, or NNN PAM sites for guide design. There are also some small fixes and 
+streamlining to guide filtering, as well as additional output files. No changes were 
+made to the pre-processing script.
+
+
 # Guide-Finder
 Pan-bacterial, genome-wide guide designer 
 
@@ -13,3 +22,5 @@ exercises for the use of either a complete or draft genome annotation have also 
 provided (see respective folders). It is highly recommended that users read through these
 provided protocols and work through the exercises prior to use of either the 
 pre-processing or the Guide Finder scripts.
+
+
